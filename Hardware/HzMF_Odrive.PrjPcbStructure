@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=HzMF_Odrive.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=HzFM_Odrive_Peripherals.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=HzFM_Odrive_Peripherals.SchDoc|FileName=HzMF_Odrive_MCU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=HzFM_Odrive_Peripherals.SchDoc|FileName=HzMF_Odrive_Power.SchDoc|SheetNumber=1
